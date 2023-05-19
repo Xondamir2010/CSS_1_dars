@@ -1,0 +1,54 @@
+body{
+    background-color: brown;
+    background-image: url("../Rasmlar/qush.JPG");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center 200px;
+}
+.box{
+    color: white;
+    border: 5px solid white;
+   /* solid,dotted,dashed,ridge,groove,inset,outset.
+    border-right-width: 10px;
+    border-left-width: 20px;
+    border-top-width: 30px;
+    border-bottom-width: 40px;
+    border-top-style: double;
+    border-right-style: dotted;
+    border-bottom-style: inset;
+    border-left-style: dashed;*/
+    text-align:justify;/*right,left(default code),justify,center*/
+    text-transform: full-size-kana;/*uppercase,capitalize,lowercase,none(default code),full-size-kana*/
+    text-decoration: none;/*underline,overline,line-through,none(default code)*/
+    letter-spacing: 1px;
+}
+.block{
+    background-color: white;
+    width: 500px;
+    height: 150px;
+    /*margin: 50px;*/
+    margin: 200px auto;
+  /*  padding: 50px 100px 30px 70px;*/
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+    box-sizing: border-box;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
